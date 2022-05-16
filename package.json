@@ -1,0 +1,18 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe App",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Sukhvinder singh",
+  "license": "ISC",
+  "dependencies": {
+    "fracty": "^1.0.11"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}
