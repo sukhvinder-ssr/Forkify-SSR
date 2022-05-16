@@ -1,5 +1,5 @@
 import { View } from './view';
-import icons from '../../img/icons.svg';
+import icons from 'url:../../img/icons.svg';
 class PreviewView extends View {
   _generateMarkup() {
     const id = window.location.hash.slice(1);

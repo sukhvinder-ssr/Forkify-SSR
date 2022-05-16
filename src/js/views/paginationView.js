@@ -1,5 +1,5 @@
 import { View } from './view';
-import icons from '../../img/icons.svg';
+import icons from 'url:../../img/icons.svg';
 import { RES_PER_PAGE } from '../config';
 class PaginationView extends View {
   _parentEl = document.querySelector('.pagination');

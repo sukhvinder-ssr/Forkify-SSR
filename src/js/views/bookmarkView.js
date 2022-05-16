@@ -1,6 +1,6 @@
 import { View } from './view';
 import previewView from './previewView';
-import icons from '../../img/icons.svg';
+import icons from 'url:../../img/icons.svg';
 class BookmarkView extends View {
   _parentEl = document.querySelector('.bookmarks__list');
   _errorMessage = `No bookmarks yet. Find a nice recipe and bookmark it :)`;
