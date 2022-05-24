@@ -50,7 +50,7 @@ class PaginationView extends View {
     this._parentEl.addEventListener('click', function (e) {
       const btn = e.target.closest('.btn--inline');
       const goto = +btn.dataset.goto;
-      console.log(goto);
+
       if (!btn) return;
 
       handler(goto);
