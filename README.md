@@ -29,7 +29,7 @@ servings as per his need and can view detailed directions.
 
 ### Built With
 
-This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses webpack as module bundler and NPM as package manager.
+This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses parcel as module bundler and NPM as package manager.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [SCSS](https://sass-lang.com/)
