@@ -50,3 +50,5 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 4. User can view the Nutrition data on ingredients of recipe
 
 _For more examples, please refer to the [Documentation](https://forkify-api.herokuapp.com/v2)_
+
+[product-screenshot]: ./src/img/screenshot.jpg
